@@ -1,0 +1,14 @@
+layout_spectrum: 0.4658509069122374
+typography_spectrum: 0.3513060207478702
+color:
+  brandStrength: 0.12307696975767612
+  lightness: 0.90693204337731
+  saturation: 0.8264542375691235
+  rhythmicContrast: 0.0804982737172395
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: ConstitutionalParty
